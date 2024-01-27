@@ -1,0 +1,7 @@
+$black : #252525;
+
+@mixin flex-center(){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
